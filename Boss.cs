@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+//Name: Boss.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose All the logic for the Boss Ai’s mechanics including a physics simulation, state machine and health system
+
+using UnityEngine;
 using System.Collections;
 
 [System.Serializable]
