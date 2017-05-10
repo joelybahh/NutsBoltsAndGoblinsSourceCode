@@ -1,4 +1,7 @@
-﻿// THIS ONE SHOOTS
+//Name: Shoot.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose: Handles the shooting mechanics
 
 using UnityEngine;
 using System.Collections;
