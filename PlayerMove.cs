@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+//Name: PlayerMove.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose Controls the player’s movement mechanics and collision logic
+
+using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
