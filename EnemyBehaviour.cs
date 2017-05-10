@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+//Name: EnemyBehaviour.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose Handles the enemy AI logic, movement and some of the mechanics for the Boss.
+
+using UnityEngine;
 using System.Collections;
 
 public class EnemyBehaviour : MonoBehaviour {
