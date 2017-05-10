@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+//Name: FloatEffect.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose Used to create the floating effect of the Robot on the main menu
+
+using UnityEngine;
 using System.Collections;
 
 public class FloatEffect : MonoBehaviour {
