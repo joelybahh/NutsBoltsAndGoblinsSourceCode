@@ -1,4 +1,7 @@
-﻿// THIS ONE MOVES BULLETS
+//Name: Bullet.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose Handles Bullet movement and collision with other entities
 
 using UnityEngine;
 using System.Collections;
