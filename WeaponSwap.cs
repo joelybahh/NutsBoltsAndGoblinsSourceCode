@@ -1,4 +1,7 @@
-﻿// THIS ONE SWAPS WEAPONS
+//Name: WeaponSwap.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose: Old mechanics. Handles weapon swapping
 
 using UnityEngine;
 using System.Collections;
