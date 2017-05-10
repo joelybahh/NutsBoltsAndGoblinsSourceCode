@@ -1,4 +1,7 @@
-﻿// THIS ONE MANAGES PARTICLES
+//Name: ParticleManager.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose: Pool manager for various particle effects used in the game
 
 using UnityEngine;
 using System.Collections;
