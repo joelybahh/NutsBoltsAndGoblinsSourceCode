@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+//Name: ButtonLevelLogic.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose Handles UI logic for resetting save and accessing levels based on if they’re unlocked or not as well as level ratings
+using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 
