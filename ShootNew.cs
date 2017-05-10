@@ -1,4 +1,7 @@
-﻿// THIS ONE SHOOTS
+//Name: ShootNew.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose: Old Mechanics. Handles bullet shooting and reloading
 
 using UnityEngine;
 using System.Collections;
