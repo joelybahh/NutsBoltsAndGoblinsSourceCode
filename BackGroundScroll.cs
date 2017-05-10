@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+//Name: BackGroundScroll.cs
+//Author: AlySapphire  github.com/AlySapphire
+//                     alyssafackrell.com
+//Purpose Used for tiling clouds on the main menu screen to give it an animated effect
+
+using UnityEngine;
 using System.Collections;
 
 public class BackGroundScroll : MonoBehaviour {
